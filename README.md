@@ -2,7 +2,6 @@
 Project created using Unity Engine simulating behaviour of ant colony trying to find the shortest path beenween ant hill and food.
 
 /src - scripts used in Unity project.
-
 /bin - contains executable file.
 
 How to use:
